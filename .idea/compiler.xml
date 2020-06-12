@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Avoid_NPE_main" target="11" />
+      <module name="Problems-Avoid_NPE_test" target="11" />
+      <module name="Problems-Blacklist_main" target="11" />
+      <module name="Problems-Blacklist_test" target="11" />
+      <module name="Problems-Boxes_are_not_just_objects!_main" target="11" />
+      <module name="Problems-Boxes_are_not_just_objects!_test" target="11" />
+      <module name="Problems-Concat_positive_numbers_main" target="11" />
+      <module name="Problems-Concat_positive_numbers_test" target="11" />
+      <module name="Problems-Creating_a_map_main" target="11" />
+      <module name="Problems-Creating_a_map_test" target="11" />
+      <module name="Problems-Creating_a_set_main" target="11" />
+      <module name="Problems-Creating_a_set_test" target="11" />
+      <module name="Problems-Filtering_the_list_main" target="11" />
+      <module name="Problems-Filtering_the_list_test" target="11" />
+      <module name="Problems-Find_the_nearest_number_main" target="11" />
+      <module name="Problems-Find_the_nearest_number_test" target="11" />
+      <module name="Problems-Fix_the_non-compiled_hierarchy_main" target="11" />
+      <module name="Problems-Fix_the_non-compiled_hierarchy_test" target="11" />
+      <module name="Problems-Greek_letters_main" target="11" />
+      <module name="Problems-Greek_letters_test" target="11" />
+      <module name="Problems-Multiset_main" target="11" />
+      <module name="Problems-Multiset_test" target="11" />
+      <module name="Problems-Only_true_or_false_main" target="11" />
+      <module name="Problems-Only_true_or_false_test" target="11" />
+      <module name="Problems-Output_elements_main" target="11" />
+      <module name="Problems-Output_elements_test" target="11" />
+      <module name="Problems-Output_the_list's_elements_main" target="11" />
+      <module name="Problems-Output_the_list's_elements_test" target="11" />
+      <module name="Problems-Pastry_packing_optimization_main" target="11" />
+      <module name="Problems-Pastry_packing_optimization_test" target="11" />
+      <module name="Problems-Removing_elements_main" target="11" />
+      <module name="Problems-Removing_elements_test" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_main" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_test" target="11" />
+      <module name="Problems-Right_Rotation_main" target="11" />
+      <module name="Problems-Right_Rotation_test" target="11" />
+      <module name="Problems-Safe_converting_main" target="11" />
+      <module name="Problems-Safe_converting_test" target="11" />
+      <module name="Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_main" target="11" />
+      <module name="Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_test" target="11" />
+      <module name="Problems-The_countdown_main" target="11" />
+      <module name="Problems-The_countdown_test" target="11" />
+      <module name="Problems-The_longest_string_in_the_list_main" target="11" />
+      <module name="Problems-The_longest_string_in_the_list_test" target="11" />
+      <module name="Simple_Search_Engine-task_main" target="11" />
+      <module name="Simple_Search_Engine-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

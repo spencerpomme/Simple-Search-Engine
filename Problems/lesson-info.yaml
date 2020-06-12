@@ -1,0 +1,23 @@
+content:
+- The countdown
+- Fix the non-compiled hierarchy
+- Return empty string when argument is null
+- Avoid NPE
+- Right Rotation
+- Only true or false
+- Safe converting
+- Pastry packing optimization
+- Boxes are not just objects!
+- Output the list's elements
+- Concat positive numbers
+- Find the nearest number
+- Blacklist
+- Greek letters
+- The longest string in the list
+- Filtering the list
+- Creating a set
+- Output elements
+- Removing elements
+- Creating a map
+- Sherlock Holmes and the mystery of anagrams
+- Multiset
